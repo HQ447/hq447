@@ -1,6 +1,7 @@
 
 # <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="3%"> Hi, I'm Hamad!
 
+Experienced Full-Stack Web Developer specializing in the MERN stack (MongoDB, Express.js, React, Node.js). Passionate about building scalable web applications with clean, efficient code and modern UI/UX design.
 
 ### Employer?
 
@@ -26,7 +27,7 @@
 
 ### Connect with me
 
-[Twitter](https://x.com/intent/follow?screen_name=vaibhavsingh97&tw_p=followbutton) · [Linkedin](https://www.linkedin.com/in/vaibhavsingh97/) · [Instagram](https://www.instagram.com/l0st_traveller_/)
+[Facebook](https://www.facebook.com/hammad.ahmad.33483?mibextid=JRoKGi) · [Linkedin](https://www.linkedin.com/in/hammad-ahmad-hq447) · [Instagram](https://www.instagram.com/hamad/)
 
 
 Here are some ideas to get you started:
