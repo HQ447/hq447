@@ -1,8 +1,16 @@
 
 # <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="3%"> Hi, I'm Hamad!
 
-Experienced Full-Stack Web Developer specializing in the MERN stack (MongoDB, Express.js, React, Node.js). Passionate about building scalable web applications with clean, efficient code and modern UI/UX design.
+Hi, I'm Hamad — a dedicated and results-driven Full-Stack Web Developer with a degree in Computer Science.
+I specialize in the MERN stack (MongoDB, Express.js, React, Node.js) and have hands-on experience building modern, responsive, and scalable web applications. From frontend interfaces to backend APIs and database design, I enjoy working across the entire web development lifecycle.
 
+Over the years, I’ve worked on a wide range of projects including e-commerce platforms, admin dashboards, content management systems, and user authentication flows. My focus is on writing clean, maintainable code and building applications that provide a seamless user experience.
+
+I’m comfortable working with RESTful APIs, JWT-based authentication, MongoDB schemas, React hooks, and modern tools like Git, Postman, and VS Code. I always strive to follow best practices in both frontend and backend development.
+
+Beyond technical skills, I value collaboration, continuous learning, and problem-solving. Whether it's learning a new framework, debugging a tough issue, or optimizing performance, I'm always eager to grow as a developer.
+
+Feel free to explore my repositories to see my recent work. I’m always open to feedback, contributions, and new opportunities to collaborate!
 ### Employer?
 
 > [!IMPORTANT]  
