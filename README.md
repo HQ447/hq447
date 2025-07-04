@@ -15,20 +15,23 @@ My focus is on **clean, maintainable code** and building apps that deliver a **s
 
 ### 🚀 Tech Stacks I Work With
 
-<p>
-  <img height="25" src="https://raw.githubusercontent.com/github/explore/8aa09a5d3fd514b6e202cce67e434a628249b249/topics/html/html.png" alt="HTML5" title="HTML5"/>
-  <img height="25" src="https://raw.githubusercontent.com/github/explore/8aa09a5d3fd514b6e202cce67e434a628249b249/topics/css/css.png" alt="CSS3" title="CSS3"/>
-  <img height="25" src="https://raw.githubusercontent.com/github/explore/8aa09a5d3fd514b6e202cce67e434a628249b249/topics/sass/sass.png" alt="SASS" title="SASS"/>
-  <img height="25" src="https://raw.githubusercontent.com/github/explore/8aa09a5d3fd514b6e202cce67e434a628249b249/topics/javascript/javascript.png" alt="JavaScript" title="JavaScript"/>
-  <img height="25" src="https://raw.githubusercontent.com/github/explore/8aa09a5d3fd514b6e202cce67e434a628249b249/topics/typescript/typescript.png" alt="TypeScript" title="TypeScript"/>
-  <img height="25" src="https://raw.githubusercontent.com/github/explore/8aa09a5d3fd514b6e202cce67e434a628249b249/topics/nodejs/nodejs.png" alt="Node.js" title="Node.js"/>
-  <img height="25" src="https://raw.githubusercontent.com/github/explore/8aa09a5d3fd514b6e202cce67e434a628249b249/topics/react/react.png" alt="React" title="React"/>
-  <img height="25" src="https://raw.githubusercontent.com/github/explore/8aa09a5d3fd514b6e202cce67e434a628249b249/topics/redux/redux.png" alt="Redux" title="Redux"/>
-  <img height="25" src="https://raw.githubusercontent.com/github/explore/8aa09a5d3fd514b6e202cce67e434a628249b249/topics/mysql/mysql.png" alt="MySQL" title="MySQL"/>
-  <img height="25" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" alt="AWS" title="AWS"/>
-  <img height="25" src="https://raw.githubusercontent.com/github/explore/8aa09a5d3fd514b6e202cce67e434a628249b249/topics/docker/docker.png" alt="Docker" title="Docker"/>
-  <img height="25" src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/kubernetes/kubernetes.png" alt="Kubernetes" title="Kubernetes"/>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="SASS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="Redux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="Express" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="Kubernetes" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" height="30" alt="AWS" />
 </p>
+
 
 ---
 
