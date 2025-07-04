@@ -40,7 +40,7 @@ My focus is on **clean, maintainable code** and building apps that deliver a **s
 - [Facebook](https://www.facebook.com/hammad.ahmad.33483?mibextid=JRoKGi)
 - [LinkedIn](https://www.linkedin.com/in/hammad-ahmad-hq447)
 - [Instagram](https://www.instagram.com/hamad/)
-- 📧 <a href="mailto:hammadahmad3311@gmail.com">Email Me</a>
+- 📧 <a href="mailto:hamadqur447@gmail.com">Email Me</a>
 
 ---
 
