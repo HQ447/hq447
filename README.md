@@ -48,7 +48,7 @@ My focus is on **clean, maintainable code** and building apps that deliver a **s
 
 > [!IMPORTANT]  
 > I'm open to job opportunities, freelance work, and exciting collaborations!  
-> 👉 <a href="mailto:hammadahmad3311@gmail.com">Let's talk</a>
+> 👉 <a href="mailto:hamadqur447@gmail.com">Let's talk</a>
 
 ---
 
