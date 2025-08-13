@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> **Hi, I'm Hamad!**
 
-A dedicated and results-driven **Full-Stack Web Developer** with a degree in Computer Science.  
+A dedicated and results-driven **MERN-Stack Web Developer** with a degree in Computer Science.  
 I specialize in the **[MERN stack](w)** — [MongoDB](w), [Express.js](w), [React](w), and [Node.js](w) — and have hands-on experience building **modern, responsive, and scalable web applications**. From frontend interfaces to backend APIs and database design, I enjoy working across the entire web development lifecycle.
 
 Over the years, I’ve worked on a wide range of projects including:
