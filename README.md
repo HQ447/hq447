@@ -3,12 +3,6 @@
 A dedicated and results-driven **MERN-Stack Web Developer** with a degree in Computer Science.  
 I specialize in the **[MERN stack](w)** — [MongoDB](w), [Express.js](w), [React](w), and [Node.js](w) — and have hands-on experience building **modern, responsive, and scalable web applications**. From frontend interfaces to backend APIs and database design, I enjoy working across the entire web development lifecycle.
 
-Over the years, I’ve worked on a wide range of projects including:
-- 🛒 E-commerce platforms
-- 📊 Admin dashboards
-- 📝 Content management systems
-- 🔐 User authentication flows
-
 My focus is on **clean, maintainable code** and building apps that deliver a **seamless user experience**.
 
 ---
@@ -49,12 +43,6 @@ My focus is on **clean, maintainable code** and building apps that deliver a **s
 > [!IMPORTANT]  
 > I'm open to job opportunities, freelance work, and exciting collaborations!  
 > 👉 <a href="mailto:hamadqur447@gmail.com">Let's talk</a>
-
----
-
-### 🌱 Currently Working On
-
-- A full-stack **Human Resource Management System (HRMS)** with role-based features for trainees, trainers, and admins.
 
 ---
 
